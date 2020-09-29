@@ -28,7 +28,6 @@ iniconfig==1.0.1
 instabot==0.117.0
 isort==4.3.21
 jdcal==1.4.1
-Kivy==1.11.1
 kivy-deps.angle==0.1.10
 kivy-deps.glew==0.1.12
 kivy-deps.gstreamer==0.1.18
